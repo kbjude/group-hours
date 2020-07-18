@@ -44,6 +44,8 @@ Some of the features of this project include but not limited to:
   - Running the Tests:
   The tests are written using Rspec and because of that:
     - The tests can be run using the rspec command.
+    
+ ### [Live Link]{https://cryptic-journey-83932.herokuapp.com/sessions/new}
 
 ### Technologies Used
 - Ruby
